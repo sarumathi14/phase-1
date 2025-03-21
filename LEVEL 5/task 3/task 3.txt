@@ -1,0 +1,4 @@
+datetime	temperature_real	humidity_real	temperature_forecast	humidity_forecast	temp_diff	humidity_diff
+2023-10-25 14:00:00	15.5	72	16.0	70	-0.5	2
+2023-10-25 15:00:00	15.5	72	16.0	70	-0.5	2
+2023-10-25 18:00:00	15.5	72	14.5	75	1.0	-3
